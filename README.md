@@ -24,4 +24,7 @@ Fiture yang tersedia :
 - Crop Image
 - Change Password
 
+Untuk Link Aplikasi terdapat pada branch "Application", atau dapat di akses pada link ini : 
+https://github.com/DandyCreater/astronacci-test/tree/application
+
 
