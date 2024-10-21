@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321028569787",
+    "project_id": "astronacci-e426f",
+    "storage_bucket": "astronacci-e426f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321028569787:android:04a04dc2e0bd1ae316879e",
+        "android_client_info": {
+          "package_name": "com.example.astronacci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhRQKWYyj_bQ-mM-0MFkamKeTQCFBxPKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
